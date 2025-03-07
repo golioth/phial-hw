@@ -60,15 +60,35 @@
       ],
       "drc_exclusions": [
         [
-          "clearance|163720651|89981280|80dc88a7-5ae6-4b61-ae21-278f626a0f55|f9084d0f-1ff0-4df3-9aff-59d1987a5d06",
+          "courtyards_overlap|150145317|104509799|60116b66-d030-4317-b65b-82bc28bafbe9|ad5b02c2-e289-4d29-8054-b907d9b5d8f4",
           ""
         ],
         [
-          "clearance|163784704|90220333|7eeb8f03-102e-48fc-9928-3484715e2b32|80dc88a7-5ae6-4b61-ae21-278f626a0f55",
+          "courtyards_overlap|150581826|109124474|57afb58c-0d4f-4bd7-bdc2-41947272f4df|f134c424-4a66-4250-a2cc-c051f752ff20",
           ""
         ],
         [
-          "clearance|163784705|90220335|80dc88a7-5ae6-4b61-ae21-278f626a0f55|f6b9e5e5-db78-4f1c-b186-e5472cfbf319",
+          "courtyards_overlap|152504328|107201972|60116b66-d030-4317-b65b-82bc28bafbe9|f134c424-4a66-4250-a2cc-c051f752ff20",
+          ""
+        ],
+        [
+          "courtyards_overlap|153383798|113121278|e0517258-2880-4ecc-baa7-bc7849959a2c|f134c424-4a66-4250-a2cc-c051f752ff20",
+          ""
+        ],
+        [
+          "courtyards_overlap|156638315|110495355|6ae3d596-734e-4d14-ade3-f880ccff28b9|f134c424-4a66-4250-a2cc-c051f752ff20",
+          ""
+        ],
+        [
+          "courtyards_overlap|158210946|93728330|940e046b-3746-48c2-ae25-d27cb9496464|d6ddbf4d-5223-47a9-a00d-72b6e183ca9b",
+          ""
+        ],
+        [
+          "courtyards_overlap|164472495|112889194|1689a436-5233-4d28-a811-d9bcf8d2ea5b|a8d4e36c-c89a-43f4-b3ae-3b00c0fd75cd",
+          ""
+        ],
+        [
+          "courtyards_overlap|167899034|109778669|9bf123d4-0f55-474d-9946-224fe04de099|a8d4e36c-c89a-43f4-b3ae-3b00c0fd75cd",
           ""
         ]
       ],
@@ -117,7 +137,7 @@
         "silk_over_copper": "ignore",
         "silk_overlap": "ignore",
         "skew_out_of_range": "error",
-        "solder_mask_bridge": "error",
+        "solder_mask_bridge": "warning",
         "starved_thermal": "error",
         "text_height": "warning",
         "text_thickness": "ignore",
