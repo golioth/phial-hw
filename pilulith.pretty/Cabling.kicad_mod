@@ -1,0 +1,88 @@
+(footprint "Cabling"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 4 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "df47e316-7118-4a6f-900d-91ce1623601e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Cabling"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "3ed3fe0d-68fa-476c-852f-35c36c06f772")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2e333f51-aadb-4869-98b1-7d627001ab69")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dc19c54e-4911-475e-a159-cfd203e149da")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr board_only exclude_from_pos_files exclude_from_bom)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "de3f3b85-7c14-4087-b4d5-59e4e6714f87")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -2 0)
+		(size 1 4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "a418ff8b-436c-4ee4-be11-e89edc661595")
+	)
+	(pad "2" smd rect
+		(at 0 0)
+		(size 1 4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "573b55d9-5101-4a92-b29f-27e563dc8600")
+	)
+	(pad "3" smd rect
+		(at 2 0)
+		(size 1 4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "89ec5bc3-dbba-4cf3-946f-33a8f5e7780e")
+	)
+	(embedded_fonts no)
+)

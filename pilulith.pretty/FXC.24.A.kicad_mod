@@ -1,0 +1,99 @@
+(footprint "FXC.24.A"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "NFC**"
+		(at 0 -2 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "f5f5cb8d-92c0-4547-847b-b006a73fc655")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.12)
+				(bold yes)
+			)
+		)
+	)
+	(property "Value" "FXC.24.A.dg"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "584c7986-7753-4927-84a7-1c5b29ee515f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "68c1cac5-8880-443b-af39-03dcef8abf30")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "eeefdcc0-a979-4e01-b83a-7caa8a032a0b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr board_only exclude_from_pos_files exclude_from_bom)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "cdd1d925-ecb3-4d85-8674-89e1065441c0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.25 0)
+		(size 1.5 2.4)
+		(layers "F.Cu" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "c23696d8-40cc-4442-b4d2-f98f5b231c88")
+	)
+	(pad "1" smd rect
+		(at -1.2 2.2)
+		(size 1 2)
+		(layers "F.Cu" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "f7277948-5aa6-446c-95bc-87dac6de635d")
+	)
+	(pad "2" smd rect
+		(at 1.25 0)
+		(size 1.5 2.4)
+		(layers "F.Cu" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "65ae1f72-1a5d-40d8-bddb-564ae3923992")
+	)
+	(pad "2" smd rect
+		(at 1.3 2.2)
+		(size 1 2)
+		(layers "F.Cu" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "3f6001c0-9f29-4fac-93be-494aceb1098c")
+	)
+	(embedded_fonts no)
+)

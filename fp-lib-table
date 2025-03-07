@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "pilulith")(type "KiCad")(uri "${KIPRJMOD}/pilulith.pretty")(options "")(descr ""))
+)
