@@ -64,31 +64,7 @@
           ""
         ],
         [
-          "courtyards_overlap|150581826|109124474|57afb58c-0d4f-4bd7-bdc2-41947272f4df|f134c424-4a66-4250-a2cc-c051f752ff20",
-          ""
-        ],
-        [
-          "courtyards_overlap|152504328|107201972|60116b66-d030-4317-b65b-82bc28bafbe9|f134c424-4a66-4250-a2cc-c051f752ff20",
-          ""
-        ],
-        [
-          "courtyards_overlap|153383798|113121278|e0517258-2880-4ecc-baa7-bc7849959a2c|f134c424-4a66-4250-a2cc-c051f752ff20",
-          ""
-        ],
-        [
-          "courtyards_overlap|156638315|110495355|6ae3d596-734e-4d14-ade3-f880ccff28b9|f134c424-4a66-4250-a2cc-c051f752ff20",
-          ""
-        ],
-        [
           "courtyards_overlap|158210946|93728330|940e046b-3746-48c2-ae25-d27cb9496464|d6ddbf4d-5223-47a9-a00d-72b6e183ca9b",
-          ""
-        ],
-        [
-          "courtyards_overlap|164472495|112889194|1689a436-5233-4d28-a811-d9bcf8d2ea5b|a8d4e36c-c89a-43f4-b3ae-3b00c0fd75cd",
-          ""
-        ],
-        [
-          "courtyards_overlap|167899034|109778669|9bf123d4-0f55-474d-9946-224fe04de099|a8d4e36c-c89a-43f4-b3ae-3b00c0fd75cd",
           ""
         ]
       ],
@@ -140,6 +116,7 @@
         "solder_mask_bridge": "warning",
         "starved_thermal": "error",
         "text_height": "warning",
+        "text_on_edge_cuts": "error",
         "text_thickness": "ignore",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
@@ -486,6 +463,7 @@
       "single_global_label": "ignore",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
+      "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
