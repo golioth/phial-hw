@@ -7,4 +7,5 @@
   (lib (name "WLA-04")(type "KiCad")(uri "${KIPRJMOD}/input/sch/WLA-04.kicad_sym")(options "")(descr ""))
   (lib (name "112TR")(type "KiCad")(uri "${KIPRJMOD}/input/sch/112TR.kicad_sym")(options "")(descr ""))
   (lib (name "NRF54L15-QFAA-R")(type "KiCad")(uri "${KIPRJMOD}/input/sch/NRF54L15-QFAA-R.kicad_sym")(options "")(descr ""))
+  (lib (name "EVP-AWED4A")(type "KiCad")(uri "${KIPRJMOD}/input/sch/EVP-AWED4A.kicad_sym")(options "")(descr ""))
 )
