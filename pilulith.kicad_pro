@@ -38,8 +38,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 0.2,
-          "width": 0.2
+          "height": 0.26,
+          "width": 0.26
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -58,7 +58,12 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "courtyards_overlap|153394095|98306090|322f6b4d-e883-412c-964c-ca622d922029|483f95ba-6f96-4746-8264-7eac85ae1628",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -87,7 +92,7 @@
         "item_on_disabled_layer": "error",
         "items_not_allowed": "error",
         "length_out_of_range": "error",
-        "lib_footprint_issues": "warning",
+        "lib_footprint_issues": "ignore",
         "lib_footprint_mismatch": "ignore",
         "malformed_courtyard": "error",
         "microvia_drill_out_of_range": "error",
@@ -106,7 +111,7 @@
         "skew_out_of_range": "error",
         "solder_mask_bridge": "warning",
         "starved_thermal": "error",
-        "text_height": "warning",
+        "text_height": "ignore",
         "text_on_edge_cuts": "error",
         "text_thickness": "ignore",
         "through_hole_pad_without_hole": "error",
@@ -527,7 +532,7 @@
       "plot": "output/gerber/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "output/mech/pilulith_202503071502.step",
+      "step": "output/mech/phial-b-boardonly_202601201510.step",
       "svg": "",
       "vrml": ""
     },

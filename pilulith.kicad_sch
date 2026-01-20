@@ -6714,10 +6714,6 @@
 		(uuid "019915d7-23a2-419c-a8c3-fef7e9271380")
 	)
 	(no_connect
-		(at 66.04 50.8)
-		(uuid "27ac3599-55e0-435b-9da2-50c379b0bda0")
-	)
-	(no_connect
 		(at 370.84 69.85)
 		(uuid "3a7732e6-0692-4053-a795-23fdd3c581eb")
 	)
@@ -7934,6 +7930,16 @@
 			(type default)
 		)
 		(uuid "60e2d908-aac0-4a36-90d3-7b4a3149ba97")
+	)
+	(wire
+		(pts
+			(xy 93.98 50.8) (xy 107.95 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "615b4cb7-534c-4c6c-93f8-3757b3dcfdb6")
 	)
 	(wire
 		(pts
@@ -9784,6 +9790,16 @@
 			(type default)
 		)
 		(uuid "ed553631-45cb-4b7d-894f-9a6f2e39e4f9")
+	)
+	(wire
+		(pts
+			(xy 66.04 50.8) (xy 86.36 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee818186-0b84-45c6-8501-889503de8a8b")
 	)
 	(wire
 		(pts
@@ -22202,6 +22218,16 @@
 		)
 		(uuid "7b422608-7dab-4c65-9940-e7bad35e8f16")
 	)
+	(label "Power_Insert"
+		(at 86.36 50.8 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "80241f62-6920-40ff-aa5c-3beba488f243")
+	)
 	(label "VOUTLDO-NPM2100"
 		(at 318.77 54.61 0)
 		(effects
@@ -22321,6 +22347,16 @@
 			(justify right bottom)
 		)
 		(uuid "a9175bc3-2ea6-4371-a931-a28779d06cf1")
+	)
+	(label "CR2032_V+"
+		(at 107.95 50.8 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "aa1c3100-6cb2-4769-9593-5fddf178f54b")
 	)
 	(label "LED09"
 		(at 415.29 214.63 180)
@@ -22728,28 +22764,6 @@
 	)
 	(global_label "VCC"
 		(shape input)
-		(at 107.95 181.61 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "15fe628b-1ff7-4fb5-9806-cbc35cce8ac6")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 114.5638 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "VCC"
-		(shape input)
 		(at 55.88 26.67 0)
 		(fields_autoplaced yes)
 		(effects
@@ -22915,6 +22929,28 @@
 		(uuid "89e3a076-1acf-4e20-b88c-3254ef6ce89c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 423.2342 351.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "VSENSOR"
+		(shape input)
+		(at 107.95 181.61 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8e1f3b6c-a5cd-42ce-9cd3-bbf7b5277a92")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 119.5228 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23856,6 +23892,109 @@
 			(project "orleon"
 				(path "/fdfe0b94-afa6-44ad-a7e5-312f182a8626"
 					(reference "C105")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 90.17 50.8 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "19e8289a-a13c-46e7-9b2d-bd2681c9c440")
+		(property "Reference" "R6"
+			(at 90.17 48.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0"
+			(at 90.17 50.8 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+			(at 90.17 52.578 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 90.17 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 90.17 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link1" "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0201ZT0R00/1756897"
+			(at 90.17 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN1" "RMCF0201ZT0R00"
+			(at 90.17 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor1" "Stackpole Electronics Inc"
+			(at 90.17 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Extra" ""
+			(at 90.17 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "7900306e-bedb-4cc6-8bb3-6f2114780d9a")
+		)
+		(pin "2"
+			(uuid "7bd0f3bc-7f06-437a-8d1f-b03077ce21c0")
+		)
+		(instances
+			(project "pilulith"
+				(path "/fdfe0b94-afa6-44ad-a7e5-312f182a8626"
+					(reference "R6")
 					(unit 1)
 				)
 			)
