@@ -28823,6 +28823,39 @@
 		)
 		(embedded_fonts no)
 	)
+	(gr_circle
+		(center 154.905315 109.62)
+		(end 155.30714 109.86)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "092fe7e3-fb97-426e-b00c-59a2d6b91a8e")
+	)
+	(gr_circle
+		(center 162.525315 108.61)
+		(end 162.92714 108.85)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "6e60c537-158a-4ce6-b688-b997da330bdf")
+	)
+	(gr_circle
+		(center 154.905315 107.59)
+		(end 155.30714 107.83)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "b44fde03-0d66-4346-a7bc-fabccffa8cd6")
+	)
 	(gr_line
 		(start 159.435315 104)
 		(end 168.125315 97.16)
