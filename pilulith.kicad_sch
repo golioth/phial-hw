@@ -4,6 +4,13 @@
 	(generator_version "9.0")
 	(uuid "fdfe0b94-afa6-44ad-a7e5-312f182a8626")
 	(paper "C")
+	(title_block
+		(title "Phial")
+		(date "2026-02-03")
+		(rev "B")
+		(company "Golioth")
+		(comment 1 "Bluetooth Coin Cell Reference Design")
+	)
 	(lib_symbols
 		(symbol "112TR:112TR"
 			(pin_names
@@ -23360,7 +23367,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "499"
 			(at 76.2 356.8699 0)
 			(effects
 				(font
@@ -23396,7 +23403,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "RC0201FR-07499RL"
 			(at 73.66 355.6 0)
 			(effects
 				(font
@@ -23405,7 +23412,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/product-detail/en/yageo/RC0201FR-07499RL/YAG2700CT-ND/5281564"
 			(at 73.66 355.6 0)
 			(effects
 				(font
@@ -23414,7 +23421,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "YAGEO"
 			(at 73.66 355.6 0)
 			(effects
 				(font
@@ -23493,7 +23500,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "MLZ1608M4R7WT000"
 			(at 393.7 342.9 0)
 			(effects
 				(font
@@ -23502,7 +23509,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/tdk-corporation/MLZ1608M4R7WT000/2465149"
 			(at 393.7 342.9 0)
 			(effects
 				(font
@@ -23511,7 +23518,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "TDK"
 			(at 393.7 342.9 0)
 			(effects
 				(font
@@ -23562,7 +23569,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "RED"
+		(property "Value" "ORANGE"
 			(at 92.71 364.4264 90)
 			(effects
 				(font
@@ -23607,7 +23614,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "APG0201SEC-TT"
 			(at 90.17 363.22 0)
 			(effects
 				(font
@@ -23616,7 +23623,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/kingbright/APG0201SEC-TT/27491889"
 			(at 90.17 363.22 0)
 			(effects
 				(font
@@ -23625,7 +23632,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Kingbright"
 			(at 90.17 363.22 0)
 			(effects
 				(font
@@ -23696,6 +23703,33 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 384.81 320.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link1" "https://www.digikey.com/en/products/detail/yageo/CC0201KPX5R5BB104/11490033"
+			(at 384.81 320.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN1" "CC0201KPX5R5BB104"
+			(at 384.81 320.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor1" "YAGEO"
 			(at 384.81 320.04 0)
 			(effects
 				(font
@@ -23882,7 +23916,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "CC0201KPX5R5BB104"
 			(at 260.35 331.47 0)
 			(effects
 				(font
@@ -23891,7 +23925,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "YAGEO"
 			(at 260.35 331.47 0)
 			(effects
 				(font
@@ -23900,7 +23934,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/yageo/CC0201KPX5R5BB104/11490033"
 			(at 260.35 331.47 0)
 			(effects
 				(font
@@ -24107,7 +24141,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "GRM0335C1H560JA01D"
 			(at 15.24 97.79 0)
 			(effects
 				(font
@@ -24116,7 +24150,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Murata"
 			(at 15.24 97.79 0)
 			(effects
 				(font
@@ -24125,7 +24159,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/murata-electronics/GRM0335C1H560JA01D/2542274"
 			(at 15.24 97.79 0)
 			(effects
 				(font
@@ -24193,7 +24227,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "499"
 			(at 92.71 314.9599 0)
 			(effects
 				(font
@@ -24229,7 +24263,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "RC0201FR-07499RL"
 			(at 90.17 313.69 0)
 			(effects
 				(font
@@ -24238,7 +24272,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/product-detail/en/yageo/RC0201FR-07499RL/YAG2700CT-ND/5281564"
 			(at 90.17 313.69 0)
 			(effects
 				(font
@@ -24247,7 +24281,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "YAGEO"
 			(at 90.17 313.69 0)
 			(effects
 				(font
@@ -24289,7 +24323,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "RED"
+		(property "Value" "ORANGE"
 			(at 138.43 344.1064 90)
 			(effects
 				(font
@@ -24334,7 +24368,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "APG0201SEC-TT"
 			(at 135.89 342.9 0)
 			(effects
 				(font
@@ -24343,7 +24377,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/kingbright/APG0201SEC-TT/27491889"
 			(at 135.89 342.9 0)
 			(effects
 				(font
@@ -24352,7 +24386,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Kingbright"
 			(at 135.89 342.9 0)
 			(effects
 				(font
@@ -24463,7 +24497,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "499"
 			(at 111.76 356.8699 0)
 			(effects
 				(font
@@ -24499,7 +24533,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "RC0201FR-07499RL"
 			(at 109.22 355.6 0)
 			(effects
 				(font
@@ -24508,7 +24542,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/product-detail/en/yageo/RC0201FR-07499RL/YAG2700CT-ND/5281564"
 			(at 109.22 355.6 0)
 			(effects
 				(font
@@ -24517,7 +24551,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "YAGEO"
 			(at 109.22 355.6 0)
 			(effects
 				(font
@@ -24693,7 +24727,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "RED"
+		(property "Value" "ORANGE"
 			(at 95.25 394.9064 90)
 			(effects
 				(font
@@ -24738,7 +24772,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "APG0201SEC-TT"
 			(at 92.71 393.7 0)
 			(effects
 				(font
@@ -24747,7 +24781,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/kingbright/APG0201SEC-TT/27491889"
 			(at 92.71 393.7 0)
 			(effects
 				(font
@@ -24756,7 +24790,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Kingbright"
 			(at 92.71 393.7 0)
 			(effects
 				(font
@@ -24799,7 +24833,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "RED"
+		(property "Value" "ORANGE"
 			(at 114.3 387.2864 90)
 			(effects
 				(font
@@ -24844,7 +24878,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "APG0201SEC-TT"
 			(at 111.76 386.08 0)
 			(effects
 				(font
@@ -24853,7 +24887,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/kingbright/APG0201SEC-TT/27491889"
 			(at 111.76 386.08 0)
 			(effects
 				(font
@@ -24862,7 +24896,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Kingbright"
 			(at 111.76 386.08 0)
 			(effects
 				(font
@@ -25007,6 +25041,33 @@
 				(hide yes)
 			)
 		)
+		(property "Link1" "https://www.digikey.com/en/products/detail/bosch-sensortec/BME280/6136306"
+			(at 88.9 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN1" "BME280"
+			(at 88.9 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor1" "Bosch Sensortec"
+			(at 88.9 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "684ebac5-6aeb-4679-b35e-653a945f68b9")
 		)
@@ -25085,6 +25146,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 40.64 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link1" "https://www.digikey.com/en/products/detail/c-k/KMT221NG-HF-LFS/1886646?s=N4IgTCBcDaINIFkAqYwEYByBxEBdAvkA"
+			(at 40.64 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN1" "KMT221NG HF LFS"
+			(at 40.64 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor1" "C&K"
 			(at 40.64 208.28 0)
 			(effects
 				(font
@@ -25196,7 +25284,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "RED"
+		(property "Value" "ORANGE"
 			(at 59.69 321.2464 90)
 			(effects
 				(font
@@ -25241,7 +25329,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "APG0201SEC-TT"
 			(at 57.15 320.04 0)
 			(effects
 				(font
@@ -25250,7 +25338,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/kingbright/APG0201SEC-TT/27491889"
 			(at 57.15 320.04 0)
 			(effects
 				(font
@@ -25259,7 +25347,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Kingbright"
 			(at 57.15 320.04 0)
 			(effects
 				(font
@@ -25336,7 +25424,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" "WR04X102 JTL"
+		(property "MPN1" "RC0201FR-071KL"
 			(at 153.67 62.23 0)
 			(effects
 				(font
@@ -25345,7 +25433,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" "Walsin Technology Corporation"
+		(property "Vendor1" "YAGEO"
 			(at 153.67 62.23 0)
 			(effects
 				(font
@@ -25354,7 +25442,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" "https://www.digikey.com/en/products/detail/walsin-technology-corporation/WR04X102-JTL/13238927"
+		(property "Link1" "https://www.digikey.com/en/products/detail/yageo/RC0201FR-071KL/1948855"
 			(at 153.67 62.23 0)
 			(effects
 				(font
@@ -25433,7 +25521,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "GRM0335C1H560JA01D"
 			(at 15.24 113.03 0)
 			(effects
 				(font
@@ -25442,7 +25530,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Murata"
 			(at 15.24 113.03 0)
 			(effects
 				(font
@@ -25451,7 +25539,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/murata-electronics/GRM0335C1H560JA01D/2542274"
 			(at 15.24 113.03 0)
 			(effects
 				(font
@@ -25651,7 +25739,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "RED"
+		(property "Value" "ORANGE"
 			(at 93.98 335.2164 90)
 			(effects
 				(font
@@ -25696,7 +25784,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "APG0201SEC-TT"
 			(at 91.44 334.01 0)
 			(effects
 				(font
@@ -25705,7 +25793,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/kingbright/APG0201SEC-TT/27491889"
 			(at 91.44 334.01 0)
 			(effects
 				(font
@@ -25714,7 +25802,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Kingbright"
 			(at 91.44 334.01 0)
 			(effects
 				(font
@@ -25791,7 +25879,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "N/A"
 			(at 40.64 106.68 0)
 			(effects
 				(font
@@ -25800,7 +25888,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "N/A"
 			(at 40.64 106.68 0)
 			(effects
 				(font
@@ -25809,7 +25897,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "N/A"
 			(at 40.64 106.68 0)
 			(effects
 				(font
@@ -26011,7 +26099,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "GRM033R60J225ME47D"
 			(at 396.24 359.41 0)
 			(effects
 				(font
@@ -26020,7 +26108,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Murata"
 			(at 396.24 359.41 0)
 			(effects
 				(font
@@ -26029,7 +26117,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/murata-electronics/GRM033R60J225ME47D/5877388"
 			(at 396.24 359.41 0)
 			(effects
 				(font
@@ -26431,7 +26519,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "GRM155R60J106ME15D"
 			(at 347.98 320.04 0)
 			(effects
 				(font
@@ -26440,7 +26528,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Murata"
 			(at 347.98 320.04 0)
 			(effects
 				(font
@@ -26449,7 +26537,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/murata-electronics-north-america/GRM155R60J106ME15D/5877446"
 			(at 347.98 320.04 0)
 			(effects
 				(font
@@ -26517,7 +26605,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "499"
 			(at 93.98 342.8999 0)
 			(effects
 				(font
@@ -26553,7 +26641,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "RC0201FR-07499RL"
 			(at 91.44 341.63 0)
 			(effects
 				(font
@@ -26562,7 +26650,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/product-detail/en/yageo/RC0201FR-07499RL/YAG2700CT-ND/5281564"
 			(at 91.44 341.63 0)
 			(effects
 				(font
@@ -26571,7 +26659,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "YAGEO"
 			(at 91.44 341.63 0)
 			(effects
 				(font
@@ -26650,7 +26738,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "MP34DT05TR-A"
 			(at 127 238.76 0)
 			(effects
 				(font
@@ -26659,7 +26747,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/stmicroelectronics/MP34DT05TR-A/7385251"
 			(at 127 238.76 0)
 			(effects
 				(font
@@ -26668,7 +26756,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "STMicroelectronics"
 			(at 127 238.76 0)
 			(effects
 				(font
@@ -26822,7 +26910,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "GRM155R61A225ME95D"
 			(at 292.1 66.04 0)
 			(effects
 				(font
@@ -26831,7 +26919,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Murata"
 			(at 292.1 66.04 0)
 			(effects
 				(font
@@ -26840,7 +26928,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/murata-electronics-north-america/GRM155R61A225ME95D/5026362"
 			(at 292.1 66.04 0)
 			(effects
 				(font
@@ -27044,7 +27132,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/yageo/RC0201FR-07100KL/1948859"
 			(at 194.31 335.28 0)
 			(effects
 				(font
@@ -27053,7 +27141,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "RC0201FR-07100KL"
 			(at 194.31 335.28 0)
 			(effects
 				(font
@@ -27062,7 +27150,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "YAGEO"
 			(at 194.31 335.28 0)
 			(effects
 				(font
@@ -27178,7 +27266,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "RED"
+		(property "Value" "ORANGE"
 			(at 44.45 342.8364 90)
 			(effects
 				(font
@@ -27223,7 +27311,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "APG0201SEC-TT"
 			(at 41.91 341.63 0)
 			(effects
 				(font
@@ -27232,7 +27320,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/kingbright/APG0201SEC-TT/27491889"
 			(at 41.91 341.63 0)
 			(effects
 				(font
@@ -27241,7 +27329,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Kingbright"
 			(at 41.91 341.63 0)
 			(effects
 				(font
@@ -27441,7 +27529,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "499"
 			(at 127 332.7399 0)
 			(effects
 				(font
@@ -27477,7 +27565,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "RC0201FR-07499RL"
 			(at 124.46 331.47 0)
 			(effects
 				(font
@@ -27486,7 +27574,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/product-detail/en/yageo/RC0201FR-07499RL/YAG2700CT-ND/5281564"
 			(at 124.46 331.47 0)
 			(effects
 				(font
@@ -27495,7 +27583,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "YAGEO"
 			(at 124.46 331.47 0)
 			(effects
 				(font
@@ -27538,7 +27626,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "499"
 			(at 92.71 372.1099 0)
 			(effects
 				(font
@@ -27574,7 +27662,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "RC0201FR-07499RL"
 			(at 90.17 370.84 0)
 			(effects
 				(font
@@ -27583,7 +27671,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/product-detail/en/yageo/RC0201FR-07499RL/YAG2700CT-ND/5281564"
 			(at 90.17 370.84 0)
 			(effects
 				(font
@@ -27592,7 +27680,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "YAGEO"
 			(at 90.17 370.84 0)
 			(effects
 				(font
@@ -27727,6 +27815,33 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Link1" "https://www.digikey.com/en/products/detail/nordic-semiconductor-asa/NPM2100-CAAA-R/26284316"
+			(at 353.06 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN1" "NPM2100-CAAA-R"
+			(at 353.06 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor1" "Nordic Semiconductor ASA"
+			(at 353.06 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -27962,6 +28077,33 @@
 				(hide yes)
 			)
 		)
+		(property "Link1" "https://www.digikey.com/en/products/detail/nordic-semiconductor-asa/NRF54L15-QFAA-R/24773448"
+			(at 363.22 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN1" "NRF54L15-QFAA-R"
+			(at 363.22 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor1" "Nordic Semiconductor ASA"
+			(at 363.22 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "30"
 			(uuid "a50fa92e-1160-426f-b945-650479eab7d5")
 		)
@@ -28173,6 +28315,33 @@
 				(hide yes)
 			)
 		)
+		(property "Link1" "https://www.digikey.com/en/products/detail/yageo/CC0201KPX5R5BB104/11490033"
+			(at 374.65 320.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN1" "CC0201KPX5R5BB104"
+			(at 374.65 320.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor1" "YAGEO"
+			(at 374.65 320.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9c06d0c9-26b9-45fa-b1ac-132fb227d47c")
 		)
@@ -28206,7 +28375,7 @@
 				)
 			)
 		)
-		(property "Value" "KMT221NG"
+		(property "Value" "EVP-AWED4A"
 			(at 40.64 259.08 0)
 			(effects
 				(font
@@ -28302,6 +28471,33 @@
 				(hide yes)
 			)
 		)
+		(property "Link1" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/EVP-AWED4A/8568275?s=N4IgTCBcDaIKIDUAKBaAggdTgEQCxpAF0BfIA"
+			(at 40.64 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN1" "EVP-AWED4A"
+			(at 40.64 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor1" "Panasonic Electronic Components"
+			(at 40.64 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "bb16fb57-124a-4ef7-90f0-8d017d76de26")
 		)
@@ -28371,7 +28567,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "GRM033R60J225ME47D"
 			(at 369.57 384.81 0)
 			(effects
 				(font
@@ -28380,7 +28576,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Murata"
 			(at 369.57 384.81 0)
 			(effects
 				(font
@@ -28389,7 +28585,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/murata-electronics/GRM033R60J225ME47D/5877388"
 			(at 369.57 384.81 0)
 			(effects
 				(font
@@ -28484,6 +28680,33 @@
 		)
 		(property "Description" "Inductor, small symbol"
 			(at 279.4 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link1" "https://www.digikey.com/en/products/detail/murata-electronics-north-america/LQM18PN2R2MFRL/5251335"
+			(at 279.4 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN1" "LQM18PN2R2MFRL"
+			(at 279.4 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor1" "Murata"
+			(at 279.4 62.23 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28657,7 +28880,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1P2"
+		(property "Value" "0P6"
 			(at 444.5 244.475 0)
 			(effects
 				(font
@@ -28693,7 +28916,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "GJM0335C1ER60WB01D"
 			(at 441.96 246.38 0)
 			(effects
 				(font
@@ -28702,7 +28925,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Murata"
 			(at 441.96 246.38 0)
 			(effects
 				(font
@@ -28711,7 +28934,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/product-detail/en/murata-electronics-north-america/GJM0335C1ER90WB01D/490-14789-1-ND/6606395"
 			(at 441.96 246.38 0)
 			(effects
 				(font
@@ -28778,7 +29001,7 @@
 				)
 			)
 		)
-		(property "Value" "4N7"
+		(property "Value" "3N3"
 			(at 433.07 240.03 90)
 			(effects
 				(font
@@ -28813,7 +29036,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "LQP03TN3N3B02D"
 			(at 433.07 242.57 0)
 			(effects
 				(font
@@ -28822,7 +29045,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/murata-electronics/LQP03TN3N3B02D/2391746"
 			(at 433.07 242.57 0)
 			(effects
 				(font
@@ -28831,7 +29054,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Murata"
 			(at 433.07 242.57 0)
 			(effects
 				(font
@@ -29108,6 +29331,33 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 308.61 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link1" "https://www.digikey.com/en/products/detail/murata-electronics-north-america/GRM188R61A226ME15D/5026394"
+			(at 308.61 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN1" "GRM188R61A226ME15D"
+			(at 308.61 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor1" "Murata"
 			(at 308.61 66.04 0)
 			(effects
 				(font
@@ -29479,7 +29729,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "CC0201KPX5R5BB104"
 			(at 359.41 320.04 0)
 			(effects
 				(font
@@ -29488,7 +29738,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "YAGEO"
 			(at 359.41 320.04 0)
 			(effects
 				(font
@@ -29497,7 +29747,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/yageo/CC0201KPX5R5BB104/11490033"
 			(at 359.41 320.04 0)
 			(effects
 				(font
@@ -29703,7 +29953,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "GRM033R71E102KA01D"
 			(at 257.81 62.23 0)
 			(effects
 				(font
@@ -29712,7 +29962,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Murata"
 			(at 257.81 62.23 0)
 			(effects
 				(font
@@ -29721,7 +29971,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/murata-electronics/GRM033R71E102KA01D/702450"
 			(at 257.81 62.23 0)
 			(effects
 				(font
@@ -29958,7 +30208,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "RC0201FR-074K7L"
 			(at 176.53 97.79 0)
 			(effects
 				(font
@@ -29967,7 +30217,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/yageo/RC0201FR-074K7L/1948894"
 			(at 176.53 97.79 0)
 			(effects
 				(font
@@ -29976,7 +30226,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "YAGEO"
 			(at 176.53 97.79 0)
 			(effects
 				(font
@@ -30027,7 +30277,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "499"
 			(at 59.69 328.9299 0)
 			(effects
 				(font
@@ -30063,7 +30313,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "RC0201FR-07499RL"
 			(at 57.15 327.66 0)
 			(effects
 				(font
@@ -30072,7 +30322,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/product-detail/en/yageo/RC0201FR-07499RL/YAG2700CT-ND/5281564"
 			(at 57.15 327.66 0)
 			(effects
 				(font
@@ -30081,7 +30331,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "YAGEO"
 			(at 57.15 327.66 0)
 			(effects
 				(font
@@ -30158,7 +30408,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "RC0201FR-07100KL"
 			(at 261.62 194.31 0)
 			(effects
 				(font
@@ -30167,7 +30417,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/yageo/RC0201FR-07100KL/1948859"
 			(at 261.62 194.31 0)
 			(effects
 				(font
@@ -30176,7 +30426,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "YAGEO"
 			(at 261.62 194.31 0)
 			(effects
 				(font
@@ -30227,7 +30477,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "499"
 			(at 74.93 394.9699 0)
 			(effects
 				(font
@@ -30263,7 +30513,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "RC0201FR-07499RL"
 			(at 72.39 393.7 0)
 			(effects
 				(font
@@ -30272,7 +30522,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/product-detail/en/yageo/RC0201FR-07499RL/YAG2700CT-ND/5281564"
 			(at 72.39 393.7 0)
 			(effects
 				(font
@@ -30281,7 +30531,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "YAGEO"
 			(at 72.39 393.7 0)
 			(effects
 				(font
@@ -30359,7 +30609,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "C0603X7R0J222K030BA"
 			(at 394.97 386.08 0)
 			(effects
 				(font
@@ -30368,7 +30618,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "TDK"
 			(at 394.97 386.08 0)
 			(effects
 				(font
@@ -30377,7 +30627,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/product-detail/en/C0603X7R0J222K030BA/445-13724-1-ND/3955390"
 			(at 394.97 386.08 0)
 			(effects
 				(font
@@ -30445,7 +30695,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "RED"
+		(property "Value" "ORANGE"
 			(at 92.71 307.2764 90)
 			(effects
 				(font
@@ -30490,7 +30740,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "APG0201SEC-TT"
 			(at 90.17 306.07 0)
 			(effects
 				(font
@@ -30499,7 +30749,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/kingbright/APG0201SEC-TT/27491889"
 			(at 90.17 306.07 0)
 			(effects
 				(font
@@ -30508,7 +30758,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Kingbright"
 			(at 90.17 306.07 0)
 			(effects
 				(font
@@ -30551,7 +30801,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "499"
 			(at 138.43 351.7899 0)
 			(effects
 				(font
@@ -30587,7 +30837,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "RC0201FR-07499RL"
 			(at 135.89 350.52 0)
 			(effects
 				(font
@@ -30596,7 +30846,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/product-detail/en/yageo/RC0201FR-07499RL/YAG2700CT-ND/5281564"
 			(at 135.89 350.52 0)
 			(effects
 				(font
@@ -30605,7 +30855,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "YAGEO"
 			(at 135.89 350.52 0)
 			(effects
 				(font
@@ -30749,7 +30999,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "CC0201KPX5R5BB104"
 			(at 101.6 149.86 0)
 			(effects
 				(font
@@ -30758,7 +31008,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "YAGEO"
 			(at 101.6 149.86 0)
 			(effects
 				(font
@@ -30767,7 +31017,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/yageo/CC0201KPX5R5BB104/11490033"
 			(at 101.6 149.86 0)
 			(effects
 				(font
@@ -30835,7 +31085,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "499"
 			(at 128.27 378.4599 0)
 			(effects
 				(font
@@ -30871,7 +31121,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "RC0201FR-07499RL"
 			(at 125.73 377.19 0)
 			(effects
 				(font
@@ -30880,7 +31130,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/product-detail/en/yageo/RC0201FR-07499RL/YAG2700CT-ND/5281564"
 			(at 125.73 377.19 0)
 			(effects
 				(font
@@ -30889,7 +31139,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "YAGEO"
 			(at 125.73 377.19 0)
 			(effects
 				(font
@@ -31196,7 +31446,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "499"
 			(at 95.25 402.5899 0)
 			(effects
 				(font
@@ -31232,7 +31482,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "RC0201FR-07499RL"
 			(at 92.71 401.32 0)
 			(effects
 				(font
@@ -31241,7 +31491,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/product-detail/en/yageo/RC0201FR-07499RL/YAG2700CT-ND/5281564"
 			(at 92.71 401.32 0)
 			(effects
 				(font
@@ -31250,7 +31500,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "YAGEO"
 			(at 92.71 401.32 0)
 			(effects
 				(font
@@ -31359,7 +31609,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "RED"
+		(property "Value" "ORANGE"
 			(at 127 325.0564 90)
 			(effects
 				(font
@@ -31404,7 +31654,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "APG0201SEC-TT"
 			(at 124.46 323.85 0)
 			(effects
 				(font
@@ -31413,7 +31663,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/kingbright/APG0201SEC-TT/27491889"
 			(at 124.46 323.85 0)
 			(effects
 				(font
@@ -31422,7 +31672,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Kingbright"
 			(at 124.46 323.85 0)
 			(effects
 				(font
@@ -31500,7 +31750,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "GRM033R71E102KA01D"
 			(at 299.72 66.04 0)
 			(effects
 				(font
@@ -31509,7 +31759,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Murata"
 			(at 299.72 66.04 0)
 			(effects
 				(font
@@ -31518,7 +31768,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/murata-electronics/GRM033R71E102KA01D/702450"
 			(at 299.72 66.04 0)
 			(effects
 				(font
@@ -31586,7 +31836,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1P2"
+		(property "Value" "0P9"
 			(at 429.26 244.475 0)
 			(effects
 				(font
@@ -31622,7 +31872,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "GJM0335C1ER90WB01D"
 			(at 426.72 246.38 0)
 			(effects
 				(font
@@ -31631,7 +31881,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Murata"
 			(at 426.72 246.38 0)
 			(effects
 				(font
@@ -31640,7 +31890,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/murata-electronics/GJM0335C1ER60WB01D/2592762"
 			(at 426.72 246.38 0)
 			(effects
 				(font
@@ -31708,7 +31958,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "RED"
+		(property "Value" "ORANGE"
 			(at 74.93 387.2864 90)
 			(effects
 				(font
@@ -31753,7 +32003,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "APG0201SEC-TT"
 			(at 72.39 386.08 0)
 			(effects
 				(font
@@ -31762,7 +32012,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/kingbright/APG0201SEC-TT/27491889"
 			(at 72.39 386.08 0)
 			(effects
 				(font
@@ -31771,7 +32021,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Kingbright"
 			(at 72.39 386.08 0)
 			(effects
 				(font
@@ -31915,7 +32165,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "GRM155R60J106ME15D"
 			(at 266.7 62.23 0)
 			(effects
 				(font
@@ -31924,7 +32174,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Murata"
 			(at 266.7 62.23 0)
 			(effects
 				(font
@@ -31933,7 +32183,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/murata-electronics-north-america/GRM155R60J106ME15D/5877446"
 			(at 266.7 62.23 0)
 			(effects
 				(font
@@ -32290,7 +32540,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/product-detail/en/GRM188R6YA475KE15D/490-7205-1-ND/3900448"
 			(at 151.13 35.56 0)
 			(effects
 				(font
@@ -32299,7 +32549,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "GRM188R6YA475KE15D"
 			(at 151.13 35.56 0)
 			(effects
 				(font
@@ -32308,7 +32558,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Murata"
 			(at 151.13 35.56 0)
 			(effects
 				(font
@@ -32397,6 +32647,33 @@
 		)
 		(property "Description" "Jumper, 3-pole, pins 1+2 closed/bridged"
 			(at 359.41 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link1" "N/A"
+			(at 359.41 109.22 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN1" "N/A"
+			(at 359.41 109.22 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor1" "N/A"
+			(at 359.41 109.22 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32640,7 +32917,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "RED"
+		(property "Value" "ORANGE"
 			(at 54.61 368.2364 90)
 			(effects
 				(font
@@ -32685,7 +32962,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "APG0201SEC-TT"
 			(at 52.07 367.03 0)
 			(effects
 				(font
@@ -32694,7 +32971,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/kingbright/APG0201SEC-TT/27491889"
 			(at 52.07 367.03 0)
 			(effects
 				(font
@@ -32703,7 +32980,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Kingbright"
 			(at 52.07 367.03 0)
 			(effects
 				(font
@@ -32848,7 +33125,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "BLM03AG121SN1D"
 			(at 355.6 360.68 0)
 			(effects
 				(font
@@ -32857,7 +33134,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/murata-electronics/BLM03AG121SN1D/610979"
 			(at 355.6 360.68 0)
 			(effects
 				(font
@@ -32866,7 +33143,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Murata"
 			(at 355.6 360.68 0)
 			(effects
 				(font
@@ -32953,7 +33230,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "WLA.04"
 			(at 452.12 242.57 0)
 			(effects
 				(font
@@ -32962,7 +33239,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "WLA.04"
 			(at 452.12 242.57 0)
 			(effects
 				(font
@@ -32971,7 +33248,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Taoglas Limited"
 			(at 452.12 242.57 0)
 			(effects
 				(font
@@ -33158,7 +33435,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "RED"
+		(property "Value" "ORANGE"
 			(at 76.2 309.8164 90)
 			(effects
 				(font
@@ -33203,7 +33480,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "APG0201SEC-TT"
 			(at 73.66 308.61 0)
 			(effects
 				(font
@@ -33212,7 +33489,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/kingbright/APG0201SEC-TT/27491889"
 			(at 73.66 308.61 0)
 			(effects
 				(font
@@ -33221,7 +33498,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Kingbright"
 			(at 73.66 308.61 0)
 			(effects
 				(font
@@ -33449,6 +33726,33 @@
 				(hide yes)
 			)
 		)
+		(property "Link1" "https://www.digikey.com/en/products/detail/c-k/KMT221NG-HF-LFS/1886646?s=N4IgTCBcDaINIFkAqYwEYByBxEBdAvkA"
+			(at 40.64 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN1" "KMT221NG HF LFS"
+			(at 40.64 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor1" "C&K"
+			(at 40.64 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c8b2589e-c08c-4005-a748-4aa0998c0500")
 		)
@@ -33486,7 +33790,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "499"
 			(at 114.3 394.9699 0)
 			(effects
 				(font
@@ -33522,7 +33826,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "RC0201FR-07499RL"
 			(at 111.76 393.7 0)
 			(effects
 				(font
@@ -33531,7 +33835,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/product-detail/en/yageo/RC0201FR-07499RL/YAG2700CT-ND/5281564"
 			(at 111.76 393.7 0)
 			(effects
 				(font
@@ -33540,7 +33844,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "YAGEO"
 			(at 111.76 393.7 0)
 			(effects
 				(font
@@ -33611,6 +33915,33 @@
 			)
 		)
 		(property "Description" "Cryptographic Co-Processor with Secure Hardware-based 16 Key Storage, ECDSA and ECDH support, I2C, UDFN-8"
+			(at 156.21 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link1" "https://www.digikey.com/en/products/detail/microchip-technology/ATECC608B-MAHDA-T/13415239"
+			(at 156.21 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN1" "ATECC608B-MAHDA-T"
+			(at 156.21 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor1" "Microchip Technology"
 			(at 156.21 105.41 0)
 			(effects
 				(font
@@ -33710,7 +34041,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "RC0201FR-074K7L"
 			(at 167.64 97.79 0)
 			(effects
 				(font
@@ -33719,7 +34050,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/yageo/RC0201FR-074K7L/1948894"
 			(at 167.64 97.79 0)
 			(effects
 				(font
@@ -33728,7 +34059,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "YAGEO"
 			(at 167.64 97.79 0)
 			(effects
 				(font
@@ -33814,7 +34145,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "GRM033R71A103KA01D"
 			(at 382.27 384.81 0)
 			(effects
 				(font
@@ -33823,7 +34154,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Murata"
 			(at 382.27 384.81 0)
 			(effects
 				(font
@@ -33832,7 +34163,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/murata-electronics-north-america/GRM033R71A103KA01D/702735"
 			(at 382.27 384.81 0)
 			(effects
 				(font
@@ -33934,6 +34265,33 @@
 				(hide yes)
 			)
 		)
+		(property "Link1" "https://www.digikey.com/en/products/detail/c-k/KMT221NG-HF-LFS/1886646?s=N4IgTCBcDaINIFkAqYwEYByBxEBdAvkA"
+			(at 40.64 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN1" "KMT221NG HF LFS"
+			(at 40.64 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor1" "C&K"
+			(at 40.64 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3a7ca651-dc56-44d3-be32-7b60987169eb")
 		)
@@ -33971,7 +34329,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "RED"
+		(property "Value" "ORANGE"
 			(at 128.27 370.7764 90)
 			(effects
 				(font
@@ -34016,7 +34374,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "APG0201SEC-TT"
 			(at 125.73 369.57 0)
 			(effects
 				(font
@@ -34025,7 +34383,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/kingbright/APG0201SEC-TT/27491889"
 			(at 125.73 369.57 0)
 			(effects
 				(font
@@ -34034,7 +34392,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Kingbright"
 			(at 125.73 369.57 0)
 			(effects
 				(font
@@ -34110,7 +34468,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0201ZT0R00/1756897"
 			(at 196.85 375.92 0)
 			(effects
 				(font
@@ -34119,7 +34477,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "RMCF0201ZT0R00"
 			(at 196.85 375.92 0)
 			(effects
 				(font
@@ -34128,7 +34486,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Stackpole Electronics Inc"
 			(at 196.85 375.92 0)
 			(effects
 				(font
@@ -34196,7 +34554,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "RED"
+		(property "Value" "ORANGE"
 			(at 76.2 349.1864 90)
 			(effects
 				(font
@@ -34241,7 +34599,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "APG0201SEC-TT"
 			(at 73.66 347.98 0)
 			(effects
 				(font
@@ -34250,7 +34608,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/kingbright/APG0201SEC-TT/27491889"
 			(at 73.66 347.98 0)
 			(effects
 				(font
@@ -34259,7 +34617,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Kingbright"
 			(at 73.66 347.98 0)
 			(effects
 				(font
@@ -34368,7 +34726,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "499"
 			(at 76.2 317.4999 0)
 			(effects
 				(font
@@ -34404,7 +34762,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "RC0201FR-07499RL"
 			(at 73.66 316.23 0)
 			(effects
 				(font
@@ -34413,7 +34771,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/product-detail/en/yageo/RC0201FR-07499RL/YAG2700CT-ND/5281564"
 			(at 73.66 316.23 0)
 			(effects
 				(font
@@ -34422,7 +34780,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "YAGEO"
 			(at 73.66 316.23 0)
 			(effects
 				(font
@@ -34465,7 +34823,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "499"
 			(at 44.45 350.5199 0)
 			(effects
 				(font
@@ -34501,7 +34859,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "RC0201FR-07499RL"
 			(at 41.91 349.25 0)
 			(effects
 				(font
@@ -34510,7 +34868,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/product-detail/en/yageo/RC0201FR-07499RL/YAG2700CT-ND/5281564"
 			(at 41.91 349.25 0)
 			(effects
 				(font
@@ -34519,7 +34877,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "YAGEO"
 			(at 41.91 349.25 0)
 			(effects
 				(font
@@ -34562,7 +34920,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "RED"
+		(property "Value" "ORANGE"
 			(at 110.49 309.8164 90)
 			(effects
 				(font
@@ -34607,7 +34965,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "APG0201SEC-TT"
 			(at 107.95 308.61 0)
 			(effects
 				(font
@@ -34616,7 +34974,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/kingbright/APG0201SEC-TT/27491889"
 			(at 107.95 308.61 0)
 			(effects
 				(font
@@ -34625,7 +34983,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Kingbright"
 			(at 107.95 308.61 0)
 			(effects
 				(font
@@ -34763,6 +35121,33 @@
 		)
 		(property "Description" "Jumper, 3-pole, pins 1+2 closed/bridged"
 			(at 370.84 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link1" "N/A"
+			(at 370.84 132.08 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN1" "N/A"
+			(at 370.84 132.08 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor1" "N/A"
+			(at 370.84 132.08 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34938,7 +35323,7 @@
 				)
 			)
 		)
-		(property "Value" "2N0"
+		(property "Value" "1N2"
 			(at 450.85 240.03 90)
 			(effects
 				(font
@@ -34973,7 +35358,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "LQP03TN1N2B02D"
 			(at 450.85 242.57 0)
 			(effects
 				(font
@@ -34982,7 +35367,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/murata-electronics/LQP03TN1N2B02D/2391736"
 			(at 450.85 242.57 0)
 			(effects
 				(font
@@ -34991,7 +35376,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Murata"
 			(at 450.85 242.57 0)
 			(effects
 				(font
@@ -35041,7 +35426,7 @@
 				)
 			)
 		)
-		(property "Value" "3N9"
+		(property "Value" "1N6"
 			(at 419.1 240.03 90)
 			(effects
 				(font
@@ -35076,7 +35461,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "LQP03TN1N6B02D"
 			(at 419.1 242.57 0)
 			(effects
 				(font
@@ -35085,7 +35470,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/murata-electronics/LQP03TN1N6B02D/2391739"
 			(at 419.1 242.57 0)
 			(effects
 				(font
@@ -35094,7 +35479,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Murata"
 			(at 419.1 242.57 0)
 			(effects
 				(font
@@ -35275,7 +35660,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "499"
 			(at 110.49 317.4999 0)
 			(effects
 				(font
@@ -35311,7 +35696,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "RC0201FR-07499RL"
 			(at 107.95 316.23 0)
 			(effects
 				(font
@@ -35320,7 +35705,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/product-detail/en/yageo/RC0201FR-07499RL/YAG2700CT-ND/5281564"
 			(at 107.95 316.23 0)
 			(effects
 				(font
@@ -35329,7 +35714,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "YAGEO"
 			(at 107.95 316.23 0)
 			(effects
 				(font
@@ -35438,7 +35823,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "RED"
+		(property "Value" "ORANGE"
 			(at 111.76 349.1864 90)
 			(effects
 				(font
@@ -35483,7 +35868,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "APG0201SEC-TT"
 			(at 109.22 347.98 0)
 			(effects
 				(font
@@ -35492,7 +35877,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/kingbright/APG0201SEC-TT/27491889"
 			(at 109.22 347.98 0)
 			(effects
 				(font
@@ -35501,7 +35886,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Kingbright"
 			(at 109.22 347.98 0)
 			(effects
 				(font
@@ -35712,7 +36097,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "GRM155R61A105KE15D"
 			(at 115.57 243.84 0)
 			(effects
 				(font
@@ -35721,7 +36106,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Murata"
 			(at 115.57 243.84 0)
 			(effects
 				(font
@@ -35730,7 +36115,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/product-detail/en/GRM155R61A105KE15D/490-3890-2-ND/965904"
 			(at 115.57 243.84 0)
 			(effects
 				(font
@@ -35826,6 +36211,33 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 393.7 320.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link1" "https://www.digikey.com/en/products/detail/yageo/CC0201KPX5R5BB104/11490033"
+			(at 393.7 320.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN1" "CC0201KPX5R5BB104"
+			(at 393.7 320.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor1" "YAGEO"
 			(at 393.7 320.04 0)
 			(effects
 				(font
@@ -36144,7 +36556,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "RC0201FR-07100KL"
 			(at 267.97 198.12 0)
 			(effects
 				(font
@@ -36153,7 +36565,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/yageo/RC0201FR-07100KL/1948859"
 			(at 267.97 198.12 0)
 			(effects
 				(font
@@ -36162,7 +36574,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "YAGEO"
 			(at 267.97 198.12 0)
 			(effects
 				(font
@@ -36343,7 +36755,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "499"
 			(at 54.61 375.9199 0)
 			(effects
 				(font
@@ -36379,7 +36791,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "RC0201FR-07499RL"
 			(at 52.07 374.65 0)
 			(effects
 				(font
@@ -36388,7 +36800,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/product-detail/en/yageo/RC0201FR-07499RL/YAG2700CT-ND/5281564"
 			(at 52.07 374.65 0)
 			(effects
 				(font
@@ -36397,7 +36809,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "YAGEO"
 			(at 52.07 374.65 0)
 			(effects
 				(font
@@ -36475,7 +36887,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "GRM155R61A225ME95D"
 			(at 318.77 66.04 0)
 			(effects
 				(font
@@ -36484,7 +36896,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Murata"
 			(at 318.77 66.04 0)
 			(effects
 				(font
@@ -36493,7 +36905,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/murata-electronics-north-america/GRM155R61A225ME95D/5026362"
 			(at 318.77 66.04 0)
 			(effects
 				(font
@@ -36594,7 +37006,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" ""
+		(property "Link1" "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0201ZT0R00/1756897"
 			(at 387.35 80.01 0)
 			(effects
 				(font
@@ -36603,7 +37015,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" ""
+		(property "MPN1" "RMCF0201ZT0R00"
 			(at 387.35 80.01 0)
 			(effects
 				(font
@@ -36612,7 +37024,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor1" ""
+		(property "Vendor1" "Stackpole Electronics Inc"
 			(at 387.35 80.01 0)
 			(effects
 				(font

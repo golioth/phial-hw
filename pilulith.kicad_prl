@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 13,
+    "active_layer": 2,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -35,6 +35,7 @@
       "ratsnest",
       "grid",
       "footprints_front",
+      "footprints_back",
       "footprint_references",
       "tracks",
       "drc_errors",
@@ -101,7 +102,11 @@
       103,
       74,
       103,
-      0
+      103,
+      103,
+      103,
+      103,
+      10
     ],
     "custom_group_rules": [],
     "expanded_rows": [],

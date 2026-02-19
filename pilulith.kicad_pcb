@@ -5048,7 +5048,7 @@
 			(uuid "b320417e-5c6f-4f0f-ac89-03b03f2e7067")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -0.680001 150)
+			(at 0.000001 -0.680001 150)
 			(layer "F.Fab")
 			(uuid "46385962-b378-4415-a0c0-8472cfb9a8a8")
 			(effects
@@ -27142,6 +27142,7 @@
 			)
 		)
 		(model "${KIPRJMOD}/input/3d/spirulo-b-202601201651.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 4)
 			)
@@ -39296,6 +39297,44 @@
 					(xy 160.265665 114.341233) (xy 160.145703 114.355962) (xy 160.041623 114.582718) (xy 159.889923 114.387368)
 					(xy 159.77076 114.402) (xy 159.988101 114.670495) (xy 159.840819 114.993026) (xy 159.961618 114.978193)
 					(xy 160.064676 114.743111) (xy 160.221543 114.946279) (xy 160.33987 114.93175) (xy 160.117161 114.6538)
+				)
+			)
+		)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "Dwgs.User")
+		(uuid "de43ae02-f080-48f1-bcfe-8273e656119e")
+		(pts
+			(xy 170.495315 104) (xy 148.375315 104)
+		)
+		(height -16.98)
+		(orientation 0)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 4)
+			(suppress_zeroes yes)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
+		(gr_text "22.12"
+			(at 159.435315 85.87 0)
+			(layer "Dwgs.User")
+			(uuid "de43ae02-f080-48f1-bcfe-8273e656119e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
