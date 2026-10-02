@@ -12,7 +12,7 @@ Golioth. Rev B.
 | Subsystem | Part / details | Notes |
 |-----------|----------------|-------|
 | Main SoC  | Nordic nRF54L15-QFAA | Rev B moved from nRF52 BGA to nRF54L15 DFN |
-| PMIC      | Nordic nPM2100 (NPM2100-CAAA-R) | coin-cell optimized |
+| PMIC      | Nordic nPM2100 (NPM2100-CAAA-R) | not populated on built boards — see Hardware status |
 | IMU       | ST LIS2DH12 | 3-axis accelerometer, I2C |
 | Microphone| ST MP34DT05TR-A | PDM MEMS mic |
 | Audio out | Raltron RDTE-4.000-3030-NS1 | electromagnetic transducer (buzzer) |
@@ -26,6 +26,16 @@ Golioth. Rev B.
 **[UNKNOWN]** The schematic also references an nRF52840-CKAA-F-R (WLCSP) symbol
 and a BME280. It is unclear whether these are an alternate/deprecated variant,
 DNP on Rev B, or planned future population. Needs a pass against the Rev B BOM.
+
+## Hardware status (Rev B)
+
+- **The only boards ever built were assembled without the nPM2100.** A
+  zero-ohm resistor selects the function and bypasses that section of the
+  circuit, so the built variant runs without the Nordic PMIC.
+- Consequence: the nPM2100 power path (battery management via VINT/VOUT) is
+  designed but **never exercised on hardware** — treat it as unvalidated
+  until a PMIC-populated build is made and tested.
+- Further validation history not captured in this repo [UNKNOWN].
 
 ## Design files
 
