@@ -2,3 +2,9 @@
 /*-backup/*
 output/*
 *.lck
+.DS_Store
+fp-info-cache
+*.bak
+*.kicad_prl
+\#auto_saved_files#
+_autosave-*
